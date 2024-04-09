@@ -1,0 +1,15 @@
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\bin\Debug\net6.0\Ex.1.exe
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\bin\Debug\net6.0\Ex.1.deps.json
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\bin\Debug\net6.0\Ex.1.runtimeconfig.json
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\bin\Debug\net6.0\Ex.1.dll
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\bin\Debug\net6.0\Ex.1.pdb
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.csproj.AssemblyReference.cache
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.AssemblyInfoInputs.cache
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.AssemblyInfo.cs
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.csproj.CoreCompileInputs.cache
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.dll
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\refint\Ex.1.dll
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.pdb
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\Ex.1.genruntimeconfig.cache
+D:\bit1a\OOP2\Exercise1\Ex.1\Ex.1\obj\Debug\net6.0\ref\Ex.1.dll
